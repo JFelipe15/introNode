@@ -1,0 +1,26 @@
+Configuraciones Iniciales
+
+Crear Carpeta Proyecto
+Crear Repositorio Git Hub
+Copiar los elementos en el terminal
+	echo "# introNode" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/JFelipe15/introNode.git
+	git push -u origin main
+
+npm init
+
+package name: (intronode)
+version: (1.0.0) 0.1.0
+description: my_description
+entry point: (index.js)
+test command:
+git repository: (https://github.com/JFelipe15/introNode.git)
+keywords:
+author: Felipe
+license: (ISC)
+
+npm install axios
